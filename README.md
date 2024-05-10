@@ -20,4 +20,4 @@ Data information from: [archive.ics.uci.edu](https://archive.ics.uci.edu/dataset
 
 
 
-                                    *By Hugo Camacho Romero*.
+                                                        By Hugo Camacho Romero.
