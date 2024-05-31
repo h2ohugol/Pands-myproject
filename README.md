@@ -18,7 +18,33 @@ Lecturer Andrew Beatty.
 Data information from: [archive.ics.uci.edu](https://archive.ics.uci.edu/dataset/53/iris)
 
 
+## Content
 
+# analysis.py
+
+# Libraries
+
+import pandas as pd
+
+Plotting.
+import matplotlib.pyplot as plt
+
+Numerical arrays.
+import numpy as np
+
+Import seaborn.
+
+import seaborn as sns
+
+# nalysis
+
+# Two variables: Petal Length and Petal width.
+
+# Plots
+
+# Seaborn bar chart visualization.
+
+# Seaborn histogram visualization.
 
 
 
