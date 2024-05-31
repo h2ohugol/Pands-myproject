@@ -20,7 +20,7 @@ Data information from: [archive.ics.uci.edu](https://archive.ics.uci.edu/dataset
 
 ## Content
 
-# analysis.py
+## analysis.py
 
 # Libraries
 
@@ -36,15 +36,15 @@ Import seaborn.
 
 import seaborn as sns
 
-# nalysis
+## analysis
 
-# Two variables: Petal Length and Petal width.
+## Two variables: Petal Length and Petal width.
 
-# Plots
+## Plots
 
-# Seaborn bar chart visualization.
+## Seaborn bar chart visualization.
 
-# Seaborn histogram visualization.
+## Seaborn histogram visualization.
 
 
 
