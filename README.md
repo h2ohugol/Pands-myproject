@@ -1,5 +1,6 @@
 # Pands-myproject
 
+
 ### Iris Dataset
 
 ***
@@ -20,7 +21,6 @@ Data information from: [archive.ics.uci.edu](https://archive.ics.uci.edu/dataset
 
 # Content
 
-
 ## Libraries
 
 import pandas as pd
@@ -35,7 +35,7 @@ Import seaborn.
 
 import seaborn as sns
 
-## analysis
+## Analysis
 
 ## Two variables: Petal Length and Petal width.
 
