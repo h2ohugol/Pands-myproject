@@ -96,11 +96,11 @@ plt.ylim(0, 4)
 
 # This is a equation of a straight line in slope-intercept form, y = mx + c where:
 
-# * y is the dependant variable (vertical axis in the graph).
-# * x is the independent variable (horizontal axis in the graph).
-# * m is the slope of the line, which represents the rate of change of y with respect to x.
-# * c is the y-intercept of the line, which is the value of y when x = 0.
-# * In the second part of the equation, the variables 𝑝1 and 𝑝0 are coefficients representing
+#  y is the dependant variable (vertical axis in the graph).
+#  x is the independent variable (horizontal axis in the graph).
+#  m is the slope of the line, which represents the rate of change of y with respect to x.
+#  c is the y-intercept of the line, which is the value of y when x = 0.
+#  In the second part of the equation, the variables 𝑝1 and 𝑝0 are coefficients representing
 #  the slope and y-intercept, respectively. They correspond to 𝑚 and 𝑐 in the first part of the equation.
 
 # Fit a straight line between x and y.
