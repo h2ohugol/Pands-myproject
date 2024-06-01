@@ -18,11 +18,10 @@ Lecturer Andrew Beatty.
 Data information from: [archive.ics.uci.edu](https://archive.ics.uci.edu/dataset/53/iris)
 
 
-## Content
+# Content
 
-## analysis.py
 
-# Libraries
+## Libraries
 
 import pandas as pd
 

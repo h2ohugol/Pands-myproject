@@ -1,8 +1,13 @@
+# %%
+"""
+
 # Iris Data Set
 
+#Analysis proram script
 
 # Data soure: [archive.ics.uci.edu](https://archive.ics.uci.edu/dataset/53/iris)
 
+"""
 # Libraries
 
 # info obtained from the class Principles of Data Analytics t08v02_load_iris on March 11, 2024 
@@ -30,6 +35,8 @@ df = pd.read_csv('https://raw.githubusercontent.com/h2ohugol/Pands-myproject/mai
 
 df
 
+# %%
+
 # Analyse Data.
 
 df.dtypes
@@ -39,7 +46,9 @@ df.dtypes
 df.describe()
 
 
+
 # Two variables: Petal Length and Petal width.
+
 
 # Petal length.
 plen = df['Petal Length']
@@ -191,3 +200,25 @@ for i, feature in enumerate(df.columns[:-1]):
 plt.tight_layout()
 plt.show()
 
+
+# %%
+"""
+## References and sources
+
+* Add names to the Data Set [STATOLOGY](https://www.statology.org/pandas-dataframe-header/#:~:text=You%20can%20use%20one%20of%20the%20following%20three,df%20%3D%20pd.DataFrame%28data%3D%5Bdata_values%5D%29%20df.columns%20%3D%20%5B%27A%27%2C%20%27B%27%2C%20%27C%27%5D)
+
+* An introduction to [seaborn](https://seaborn.pydata.org/tutorial/introduction)
+
+* Seaborn [Iris data set](https://github.com/mwaskom/seaborn-data/blob/master/iris.csv)
+
+* Understanding matplotlib [Real python](https://realpython.com/python-matplotlib-guide/#understanding-pltsubplots-notation)
+
+* Pearson corelation [Laerd statistics](https://statistics.laerd.com/statistical-guides/pearson-correlation-coefficient-statistical-guide.php)
+
+* Pearson Correlation coefficient [Wikipedia](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
+
+* Correlation coefficient [numpy](https://numpy.org/doc/stable/reference/generated/numpy.corrcoef.html)
+
+* Fit a polynomial [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
+
+"""
